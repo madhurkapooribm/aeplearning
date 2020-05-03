@@ -4,9 +4,9 @@
 ## Important Links
 | Resource        | URL           | Note  |
 | ------------- |---------------|-------|
-| Registration  |             | |
-| Feedback      |         | |
-| Q&A |            | |
+| Registration  | https://docs.google.com/spreadsheets/d/1VW0SQODN-aTt8pN3Hpd1e_NXhoRvSlJ4hEOiW6HrmOU/edit#gid=0            | |
+| Feedback      | https://forms.microsoft.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4dOmL-G1qnZOmDIHaMeuQpVUREZCRFpYSEhUT09PS0s1U0VLRlZKMzJERS4u        | |
+| Q&A | https://join.slack.com/t/ibmaepenablementemea/shared_invite/zt-e12smpp1-3rme4Xj08jE5GMQaay~XKQ           | |
 
 ## Learning Modules
 
